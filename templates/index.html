@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% block content %}
+    <form class="form-request" method="POST" enctype="multipart/form-data">
+        <div class="h1 mb-4">GPX to GeoJSON</div>
+        <img class="mb-4" src="static/map_pin.png" alt="Map &amp; Pin Icon" width="144" height="72">
+        <h1 class="h4 mb-3 font-weight-normal">Upload your GPX file, then I'll convert to my GeoJSON file.</h1>
+        {% if flg==None %}
+        <div class="alert alert-light" role="alert">
+        {% elif flg %}
+        <div class="alert alert-primary" role="alert">
+        {% else %}
+        <div class="alert alert-danger" role="alert">
+        {% endif %}
+        {{ alert }}
+            <button type="button" class="close" data-dismiss="alert" arila-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <label for="inputFile" class="sr-only">Select file</label>
+        <input type="file" name="inputFile" class="form-control" placeholder="Select File" required autofocus>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Upload !</button>
+        <p class="mt-5 mb-3 text-muted">&copy; Code for SUSONO, 2020</p>
+    </form>
+{% endblock %}
