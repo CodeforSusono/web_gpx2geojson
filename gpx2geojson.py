@@ -162,7 +162,8 @@ def convert(gpx_filename):
     output_filename = getOutputFilename(gpx_filename)
     with open(output_filename, 'w') as outfile:
         geojson.dump(feature_collection, outfile, indent=2)
-
+    
+    return output_filename
 
 if __name__=='__main__':
     args = sys.argv
