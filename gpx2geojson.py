@@ -73,6 +73,7 @@ def getFeatures( gpx ):
                 side_walk_section.append(ending_point)
                 side_walk = SideWalkFeature( side_walk_section )
                 features.append(side_walk.getGeoJSON())
+                side_walk_section=[]
             continue
         if waypoint.name == 'ブロック塀開始':
             if len(block_fence_section)!=0:
@@ -91,6 +92,7 @@ def getFeatures( gpx ):
                 block_fence_section.append(ending_point)
                 block_fence = BlockFenceFeature( block_fence_section )
                 features.append(block_fence.getGeoJSON())
+                block_fence_section=[]
             continue
         if waypoint.name == '石塀開始':
             if len(stone_wall_section)!=0:
@@ -109,6 +111,7 @@ def getFeatures( gpx ):
                 stone_wall_section.append(ending_point)
                 stone_wall = StoneWallFeature( stone_wall_section )
                 features.append(stone_wall.getGeoJSON())
+                stone_wall_section=[]
             continue
         if waypoint.name == '橋開始':
             if len(stone_wall_section)!=0:
@@ -127,6 +130,7 @@ def getFeatures( gpx ):
                 bridge_section.append(ending_point)
                 bridge = BridgeFeature( bridge_section )
                 features.append(bridge.getGeoJSON())
+                bridge_section=[]
             continue
         other = UnSupportedFeature(waypoint.name, waypoint.longitude, waypoint.latitude)
         features.append(other.getGeoJSON())
