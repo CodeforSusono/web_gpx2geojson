@@ -1,6 +1,6 @@
 # web_gpx2geojson
 
-web version of gpx2geojson (https://github.com/aktnk/umap_geojson.git)
+web version of gpx2geojson (https://github.com/CodeforSusono/umap_geojson.git)
 
 ## web site image
 
