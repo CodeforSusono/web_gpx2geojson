@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="OSMTracker for Android™ - https://github.com/labexp/osmtracker-android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<metadata>
+		<keywords>osmtracker</keywords>
+		<keywords>walking town</keywords>
+	</metadata>
+	<wpt lat="35.12493186" lon="138.91958061">
+		<ele>72.25286865234375</ele>
+		<time>2020-01-12T07:43:16Z</time>
+		<name><![CDATA[自販機]]></name>
+		<sat>0</sat>
+		<extensions>
+			<compass>345.3645935058594</compass>
+			<compass_accuracy>3</compass_accuracy>
+		</extensions>
+	</wpt>
+	<wpt lat="35.12493554" lon="138.91958003">
+		<ele>72.873291015625</ele>
+		<time>2020-01-12T07:43:20Z</time>
+		<name><![CDATA[写真]]></name>
+		<link href="2020-01-12_16-43-20.jpg">
+			<text>2020-01-12_16-43-20.jpg</text>
+		</link>
+		<sat>0</sat>
+		<extensions>
+			<compass>346.3033752441406</compass>
+			<compass_accuracy>3</compass_accuracy>
+		</extensions>
+	</wpt>
+	<wpt lat="35.12491726" lon="138.91957103">
+		<ele>74.22271728515625</ele>
+		<time>2020-01-12T07:43:31Z</time>
+		<name><![CDATA[JA三島函南大社前支店]]></name>
+		<sat>0</sat>
+		<extensions>
+			<compass>331.7384338378906</compass>
+			<compass_accuracy>3</compass_accuracy>
+		</extensions>
+	</wpt>
+	<trk>
+		<name><![CDATA[Tracked with OSMTracker for Android™]]></name>
+		<trkseg>
+			<trkpt lat="35.124937891960144" lon="138.91951203346252">
+				<ele>86.27294921875</ele>
+				<time>2020-01-12T07:43:05Z</time>
+				<extensions>
+					<speed>0.23999999463558197</speed>
+					<compass>64.24667358398438</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12490385" lon="138.91957623">
+				<ele>74.420166015625</ele>
+				<time>2020-01-12T07:43:11Z</time>
+				<extensions>
+					<speed>0.5699999928474426</speed>
+					<compass>81.15011596679688</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.124937891960144" lon="138.9195817708969">
+				<time>2020-01-12T07:43:28Z</time>
+				<extensions>
+					<speed>0.0</speed>
+					<compass>340.6370544433594</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12492363" lon="138.91955574">
+				<ele>74.08612060546875</ele>
+				<time>2020-01-12T07:43:33Z</time>
+				<extensions>
+					<speed>0.0</speed>
+					<compass>332.0832214355469</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12493168" lon="138.91953696">
+				<ele>74.4031982421875</ele>
+				<time>2020-01-12T07:43:38Z</time>
+				<extensions>
+					<speed>0.0</speed>
+					<compass>336.0181579589844</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12493505" lon="138.91952795">
+				<ele>74.27288818359375</ele>
+				<time>2020-01-12T07:43:48Z</time>
+				<extensions>
+					<speed>0.2199999988079071</speed>
+					<compass>279.0121154785156</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12494193" lon="138.91952856">
+				<ele>75.71466064453125</ele>
+				<time>2020-01-12T07:43:53Z</time>
+				<extensions>
+					<speed>0.0</speed>
+					<compass>320.64739990234375</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12494771" lon="138.91952954">
+				<ele>76.90142822265625</ele>
+				<time>2020-01-12T07:44:03Z</time>
+				<extensions>
+					<speed>0.0</speed>
+					<compass>315.3808288574219</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12494736" lon="138.91952856">
+				<ele>77.06195068359375</ele>
+				<time>2020-01-12T07:44:13Z</time>
+				<extensions>
+					<speed>0.0</speed>
+					<compass>312.4569091796875</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12495643" lon="138.9195397">
+				<ele>76.54425048828125</ele>
+				<time>2020-01-12T07:44:23Z</time>
+				<extensions>
+					<speed>0.8700000047683716</speed>
+					<compass>174.98211669921875</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12497992" lon="138.91968128">
+				<ele>74.872802734375</ele>
+				<time>2020-01-12T07:44:33Z</time>
+				<extensions>
+					<speed>1.190000057220459</speed>
+					<compass>80.74859619140625</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12499443" lon="138.91976019">
+				<ele>74.32958984375</ele>
+				<time>2020-01-12T07:44:38Z</time>
+				<extensions>
+					<speed>1.3799999952316284</speed>
+					<compass>75.00735473632812</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12504404" lon="138.9198868">
+				<ele>74.396728515625</ele>
+				<time>2020-01-12T07:44:48Z</time>
+				<extensions>
+					<speed>1.3600000143051147</speed>
+					<compass>59.61907958984375</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12506179" lon="138.91995191">
+				<ele>75.234375</ele>
+				<time>2020-01-12T07:44:53Z</time>
+				<extensions>
+					<speed>1.3799999952316284</speed>
+					<compass>60.2103271484375</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12508349" lon="138.92001936">
+				<ele>75.48419189453125</ele>
+				<time>2020-01-12T07:44:58Z</time>
+				<extensions>
+					<speed>1.3600000143051147</speed>
+					<compass>70.3453369140625</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12513939" lon="138.92013029">
+				<ele>74.50079345703125</ele>
+				<time>2020-01-12T07:45:08Z</time>
+				<extensions>
+					<speed>0.5699999928474426</speed>
+					<compass>15.5477294921875</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12523438" lon="138.92008275">
+				<ele>73.41693115234375</ele>
+				<time>2020-01-12T07:45:18Z</time>
+				<extensions>
+					<speed>1.2599999904632568</speed>
+					<compass>359.61053466796875</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12534813" lon="138.92000471">
+				<ele>73.3836669921875</ele>
+				<time>2020-01-12T07:45:28Z</time>
+				<extensions>
+					<speed>1.2599999904632568</speed>
+					<compass>218.28433227539062</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12546758" lon="138.91994422">
+				<ele>68.77093505859375</ele>
+				<time>2020-01-12T07:45:38Z</time>
+				<extensions>
+					<speed>1.3200000524520874</speed>
+					<compass>338.9853210449219</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12551692" lon="138.91992026">
+				<ele>67.5362548828125</ele>
+				<time>2020-01-12T07:45:43Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>337.2929382324219</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12555752" lon="138.91987302">
+				<ele>69.245361328125</ele>
+				<time>2020-01-12T07:45:48Z</time>
+				<extensions>
+					<speed>1.2599999904632568</speed>
+					<compass>324.47894287109375</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12562845" lon="138.91980792">
+				<ele>69.0782470703125</ele>
+				<time>2020-01-12T07:45:58Z</time>
+				<extensions>
+					<speed>1.2200000286102295</speed>
+					<compass>324.0732421875</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12565773" lon="138.9197619">
+				<ele>69.8201904296875</ele>
+				<time>2020-01-12T07:46:03Z</time>
+				<extensions>
+					<speed>1.1299999952316284</speed>
+					<compass>324.9906921386719</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12573097" lon="138.91965616">
+				<ele>70.8721923828125</ele>
+				<time>2020-01-12T07:46:13Z</time>
+				<extensions>
+					<speed>1.2300000190734863</speed>
+					<compass>319.7696533203125</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12584236" lon="138.91959985">
+				<ele>71.580810546875</ele>
+				<time>2020-01-12T07:46:23Z</time>
+				<extensions>
+					<speed>1.2300000190734863</speed>
+					<compass>339.486083984375</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12594807" lon="138.91953132">
+				<ele>75.38677978515625</ele>
+				<time>2020-01-12T07:46:33Z</time>
+				<extensions>
+					<speed>1.3799999952316284</speed>
+					<compass>323.01885986328125</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12599706" lon="138.91948559">
+				<ele>76.32598876953125</ele>
+				<time>2020-01-12T07:46:38Z</time>
+				<extensions>
+					<speed>1.3700000047683716</speed>
+					<compass>316.0569763183594</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12609407" lon="138.91942463">
+				<ele>74.927734375</ele>
+				<time>2020-01-12T07:46:48Z</time>
+				<extensions>
+					<speed>1.350000023841858</speed>
+					<compass>305.0803527832031</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12619438" lon="138.91936995">
+				<ele>69.8863525390625</ele>
+				<time>2020-01-12T07:46:58Z</time>
+				<extensions>
+					<speed>1.3600000143051147</speed>
+					<compass>312.4090576171875</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12628167" lon="138.91929936">
+				<ele>67.62078857421875</ele>
+				<time>2020-01-12T07:47:08Z</time>
+				<extensions>
+					<speed>0.8700000047683716</speed>
+					<compass>335.90399169921875</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12632981" lon="138.91928434">
+				<ele>68.5849609375</ele>
+				<time>2020-01-12T07:47:13Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>349.3955383300781</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.1263657" lon="138.91925295">
+				<ele>70.903076171875</ele>
+				<time>2020-01-12T07:47:18Z</time>
+				<extensions>
+					<speed>0.8600000143051147</speed>
+					<compass>36.66864013671875</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12644896" lon="138.919216">
+				<ele>73.073486328125</ele>
+				<time>2020-01-12T07:47:28Z</time>
+				<extensions>
+					<speed>0.8799999952316284</speed>
+					<compass>26.07220458984375</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12652649" lon="138.91920688">
+				<ele>76.20654296875</ele>
+				<time>2020-01-12T07:47:38Z</time>
+				<extensions>
+					<speed>1.1299999952316284</speed>
+					<compass>349.2784423828125</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12661443" lon="138.91921106">
+				<ele>74.9207763671875</ele>
+				<time>2020-01-12T07:47:48Z</time>
+				<extensions>
+					<speed>1.3300000429153442</speed>
+					<compass>170.5174560546875</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12665863" lon="138.91921576">
+				<ele>77.8978271484375</ele>
+				<time>2020-01-12T07:47:58Z</time>
+				<extensions>
+					<speed>0.44999998807907104</speed>
+					<compass>147.26739501953125</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12669404" lon="138.91920236">
+				<ele>79.6866455078125</ele>
+				<time>2020-01-12T07:48:03Z</time>
+				<extensions>
+					<speed>1.2999999523162842</speed>
+					<compass>125.028564453125</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12678203" lon="138.91918873">
+				<ele>80.36749267578125</ele>
+				<time>2020-01-12T07:48:08Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>114.9456787109375</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12685405" lon="138.91918873">
+				<ele>78.5738525390625</ele>
+				<time>2020-01-12T07:48:13Z</time>
+				<extensions>
+					<speed>0.4699999988079071</speed>
+					<compass>114.10733032226562</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12692803" lon="138.91925205">
+				<ele>80.75091552734375</ele>
+				<time>2020-01-12T07:48:23Z</time>
+				<extensions>
+					<speed>0.5400000214576721</speed>
+					<compass>117.57281494140625</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12707422" lon="138.91928567">
+				<ele>83.2716064453125</ele>
+				<time>2020-01-12T07:48:33Z</time>
+				<extensions>
+					<speed>1.2300000190734863</speed>
+					<compass>94.26959228515625</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12713289" lon="138.91931629">
+				<ele>81.8387451171875</ele>
+				<time>2020-01-12T07:48:38Z</time>
+				<extensions>
+					<speed>1.340000033378601</speed>
+					<compass>19.20751953125</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12724888" lon="138.91937722">
+				<ele>77.92523193359375</ele>
+				<time>2020-01-12T07:48:48Z</time>
+				<extensions>
+					<speed>1.340000033378601</speed>
+					<compass>24.587646484375</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12729652" lon="138.9194069">
+				<ele>76.90087890625</ele>
+				<time>2020-01-12T07:48:53Z</time>
+				<extensions>
+					<speed>1.0800000429153442</speed>
+					<compass>7.711761474609375</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12738856" lon="138.91945084">
+				<ele>72.74395751953125</ele>
+				<time>2020-01-12T07:49:03Z</time>
+				<extensions>
+					<speed>1.399999976158142</speed>
+					<compass>5.2547607421875</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12745436" lon="138.91947284">
+				<ele>72.772216796875</ele>
+				<time>2020-01-12T07:49:13Z</time>
+				<extensions>
+					<speed>0.7200000286102295</speed>
+					<compass>336.2527160644531</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12755164" lon="138.9194799">
+				<ele>70.78033447265625</ele>
+				<time>2020-01-12T07:49:23Z</time>
+				<extensions>
+					<speed>1.350000023841858</speed>
+					<compass>9.661468505859375</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12764789" lon="138.91945356">
+				<ele>68.40069580078125</ele>
+				<time>2020-01-12T07:49:33Z</time>
+				<extensions>
+					<speed>1.2899999618530273</speed>
+					<compass>6.368377685546875</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.1277045" lon="138.91944208">
+				<ele>67.9609375</ele>
+				<time>2020-01-12T07:49:38Z</time>
+				<extensions>
+					<speed>1.0499999523162842</speed>
+					<compass>10.172149658203125</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12776188" lon="138.91943836">
+				<ele>67.5533447265625</ele>
+				<time>2020-01-12T07:49:43Z</time>
+				<extensions>
+					<speed>1.2599999904632568</speed>
+					<compass>356.8599853515625</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12788298" lon="138.91942461">
+				<ele>70.08355712890625</ele>
+				<time>2020-01-12T07:49:53Z</time>
+				<extensions>
+					<speed>0.7300000190734863</speed>
+					<compass>1.17791748046875</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12793617" lon="138.91942215">
+				<ele>71.400390625</ele>
+				<time>2020-01-12T07:49:58Z</time>
+				<extensions>
+					<speed>0.5199999809265137</speed>
+					<compass>59.67669677734375</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12800464" lon="138.91942688">
+				<ele>71.66888427734375</ele>
+				<time>2020-01-12T07:50:08Z</time>
+				<extensions>
+					<speed>1.2799999713897705</speed>
+					<compass>317.7220764160156</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12807227" lon="138.91943796">
+				<ele>79.68975830078125</ele>
+				<time>2020-01-12T07:50:18Z</time>
+				<extensions>
+					<speed>1.2200000286102295</speed>
+					<compass>240.2462921142578</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12812006" lon="138.9194488">
+				<ele>78.7301025390625</ele>
+				<time>2020-01-12T07:50:23Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>271.6596984863281</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12820986" lon="138.91940714">
+				<ele>82.348876953125</ele>
+				<time>2020-01-12T07:50:33Z</time>
+				<extensions>
+					<speed>0.7300000190734863</speed>
+					<compass>137.84161376953125</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12822471" lon="138.91937641">
+				<ele>83.9552001953125</ele>
+				<time>2020-01-12T07:50:43Z</time>
+				<extensions>
+					<speed>0.0</speed>
+					<compass>264.7142639160156</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12822714" lon="138.91936993">
+				<ele>83.434326171875</ele>
+				<time>2020-01-12T07:50:48Z</time>
+				<extensions>
+					<speed>0.0</speed>
+					<compass>188.6110382080078</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12830148" lon="138.9193422">
+				<ele>86.63873291015625</ele>
+				<time>2020-01-12T07:50:58Z</time>
+				<extensions>
+					<speed>1.100000023841858</speed>
+					<compass>284.8063049316406</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12835577" lon="138.91934665">
+				<ele>86.724853515625</ele>
+				<time>2020-01-12T07:51:03Z</time>
+				<extensions>
+					<speed>1.409999966621399</speed>
+					<compass>267.6586608886719</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12848092" lon="138.91933574">
+				<ele>85.033935546875</ele>
+				<time>2020-01-12T07:51:13Z</time>
+				<extensions>
+					<speed>1.399999976158142</speed>
+					<compass>309.0744934082031</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12857954" lon="138.91937258">
+				<ele>84.68157958984375</ele>
+				<time>2020-01-12T07:51:23Z</time>
+				<extensions>
+					<speed>1.059999942779541</speed>
+					<compass>193.78955078125</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12867084" lon="138.9194049">
+				<ele>83.37371826171875</ele>
+				<time>2020-01-12T07:51:33Z</time>
+				<extensions>
+					<speed>1.3799999952316284</speed>
+					<compass>59.37890625</compass>
+					<compass_accuracy>3.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12874033" lon="138.91938556">
+				<ele>83.1363525390625</ele>
+				<time>2020-01-12T07:51:38Z</time>
+				<extensions>
+					<speed>1.409999966621399</speed>
+					<compass>26.3582763671875</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12886489" lon="138.91935362">
+				<ele>82.57257080078125</ele>
+				<time>2020-01-12T07:51:48Z</time>
+				<extensions>
+					<speed>1.3600000143051147</speed>
+					<compass>264.64617919921875</compass>
+					<compass_accuracy>2.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12892802" lon="138.91932524">
+				<ele>80.63800048828125</ele>
+				<time>2020-01-12T07:51:53Z</time>
+				<extensions>
+					<speed>0.9700000286102295</speed>
+					<compass>286.94976806640625</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12897385" lon="138.91930718">
+				<ele>79.34033203125</ele>
+				<time>2020-01-12T07:51:58Z</time>
+				<extensions>
+					<speed>1.3700000047683716</speed>
+					<compass>280.83837890625</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12907531" lon="138.9192834">
+				<ele>75.32373046875</ele>
+				<time>2020-01-12T07:52:08Z</time>
+				<extensions>
+					<speed>0.7900000214576721</speed>
+					<compass>277.8046875</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.1292017" lon="138.91926768">
+				<ele>75.684814453125</ele>
+				<time>2020-01-12T07:52:18Z</time>
+				<extensions>
+					<speed>0.4699999988079071</speed>
+					<compass>287.11407470703125</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12928447" lon="138.91927835">
+				<ele>72.5926513671875</ele>
+				<time>2020-01-12T07:52:28Z</time>
+				<extensions>
+					<speed>1.059999942779541</speed>
+					<compass>35.7138671875</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12933164" lon="138.91925645">
+				<ele>73.63262939453125</ele>
+				<time>2020-01-12T07:52:33Z</time>
+				<extensions>
+					<speed>0.7300000190734863</speed>
+					<compass>357.7251281738281</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12942659" lon="138.91918141">
+				<ele>74.47381591796875</ele>
+				<time>2020-01-12T07:52:43Z</time>
+				<extensions>
+					<speed>1.059999942779541</speed>
+					<compass>58.12091064453125</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12952467" lon="138.91914158">
+				<ele>75.4893798828125</ele>
+				<time>2020-01-12T07:52:53Z</time>
+				<extensions>
+					<speed>1.2699999809265137</speed>
+					<compass>79.65115356445312</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12962439" lon="138.91910021">
+				<ele>78.1268310546875</ele>
+				<time>2020-01-12T07:53:03Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>97.03350830078125</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12967678" lon="138.91908195">
+				<ele>81.93804931640625</ele>
+				<time>2020-01-12T07:53:08Z</time>
+				<extensions>
+					<speed>1.0700000524520874</speed>
+					<compass>100.80694580078125</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12973138" lon="138.91906069">
+				<ele>81.232177734375</ele>
+				<time>2020-01-12T07:53:13Z</time>
+				<extensions>
+					<speed>1.2899999618530273</speed>
+					<compass>100.15908813476562</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12978637" lon="138.9190377">
+				<ele>80.33282470703125</ele>
+				<time>2020-01-12T07:53:18Z</time>
+				<extensions>
+					<speed>1.2899999618530273</speed>
+					<compass>100.742431640625</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12983716" lon="138.91901615">
+				<ele>77.70782470703125</ele>
+				<time>2020-01-12T07:53:23Z</time>
+				<extensions>
+					<speed>1.4299999475479126</speed>
+					<compass>96.29217529296875</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.1299087" lon="138.91893615">
+				<ele>75.1651611328125</ele>
+				<time>2020-01-12T07:53:33Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>119.49752807617188</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.12993979" lon="138.9189071">
+				<ele>77.07958984375</ele>
+				<time>2020-01-12T07:53:38Z</time>
+				<extensions>
+					<speed>1.2899999618530273</speed>
+					<compass>130.13616943359375</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13000712" lon="138.91878863">
+				<ele>71.94207763671875</ele>
+				<time>2020-01-12T07:53:48Z</time>
+				<extensions>
+					<speed>1.0399999618530273</speed>
+					<compass>158.1680908203125</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13002718" lon="138.91872641">
+				<ele>72.345458984375</ele>
+				<time>2020-01-12T07:53:53Z</time>
+				<extensions>
+					<speed>1.350000023841858</speed>
+					<compass>185.43064880371094</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13007678" lon="138.9185994">
+				<ele>70.00872802734375</ele>
+				<time>2020-01-12T07:54:03Z</time>
+				<extensions>
+					<speed>1.3200000524520874</speed>
+					<compass>186.387451171875</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13009776" lon="138.91853733">
+				<ele>69.75897216796875</ele>
+				<time>2020-01-12T07:54:08Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>196.63284301757812</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13011947" lon="138.91847735">
+				<ele>69.49053955078125</ele>
+				<time>2020-01-12T07:54:13Z</time>
+				<extensions>
+					<speed>1.340000033378601</speed>
+					<compass>178.13690185546875</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13015588" lon="138.91835787">
+				<ele>68.91162109375</ele>
+				<time>2020-01-12T07:54:23Z</time>
+				<extensions>
+					<speed>1.2999999523162842</speed>
+					<compass>203.21075439453125</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13019524" lon="138.91822251">
+				<ele>69.43890380859375</ele>
+				<time>2020-01-12T07:54:33Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>185.14697265625</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13022206" lon="138.91816542">
+				<ele>68.80908203125</ele>
+				<time>2020-01-12T07:54:38Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>196.39028930664062</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.1302832" lon="138.91822804">
+				<ele>68.51617431640625</ele>
+				<time>2020-01-12T07:54:48Z</time>
+				<extensions>
+					<speed>1.2200000286102295</speed>
+					<compass>131.50872802734375</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13031074" lon="138.91828939">
+				<ele>70.973388671875</ele>
+				<time>2020-01-12T07:54:53Z</time>
+				<extensions>
+					<speed>1.2799999713897705</speed>
+					<compass>89.97808837890625</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13036507" lon="138.91835335">
+				<ele>73.2752685546875</ele>
+				<time>2020-01-12T07:55:03Z</time>
+				<extensions>
+					<speed>1.0700000524520874</speed>
+					<compass>138.77398681640625</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13040092" lon="138.91839397">
+				<ele>72.43914794921875</ele>
+				<time>2020-01-12T07:55:08Z</time>
+				<extensions>
+					<speed>0.6800000071525574</speed>
+					<compass>114.02615356445312</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13045638" lon="138.91848838">
+				<ele>74.5897216796875</ele>
+				<time>2020-01-12T07:55:18Z</time>
+				<extensions>
+					<speed>1.2899999618530273</speed>
+					<compass>111.64337158203125</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13049096" lon="138.91854817">
+				<ele>74.27557373046875</ele>
+				<time>2020-01-12T07:55:23Z</time>
+				<extensions>
+					<speed>1.340000033378601</speed>
+					<compass>113.77874755859375</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13053855" lon="138.91866033">
+				<ele>72.71197509765625</ele>
+				<time>2020-01-12T07:55:33Z</time>
+				<extensions>
+					<speed>1.309999942779541</speed>
+					<compass>118.50527954101562</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13061916" lon="138.91875052">
+				<ele>73.79541015625</ele>
+				<time>2020-01-12T07:55:43Z</time>
+				<extensions>
+					<speed>1.3200000524520874</speed>
+					<compass>120.8658447265625</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13064226" lon="138.91878523">
+				<ele>72.36248779296875</ele>
+				<time>2020-01-12T07:55:48Z</time>
+				<extensions>
+					<speed>1.2100000381469727</speed>
+					<compass>87.73513793945312</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13074177" lon="138.91883469">
+				<ele>72.39935302734375</ele>
+				<time>2020-01-12T07:55:58Z</time>
+				<extensions>
+					<speed>1.5299999713897705</speed>
+					<compass>123.45571899414062</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13077027" lon="138.91888769">
+				<ele>72.10113525390625</ele>
+				<time>2020-01-12T07:56:03Z</time>
+				<extensions>
+					<speed>0.9300000071525574</speed>
+					<compass>106.7550048828125</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13082145" lon="138.91898956">
+				<ele>73.5159912109375</ele>
+				<time>2020-01-12T07:56:13Z</time>
+				<extensions>
+					<speed>0.699999988079071</speed>
+					<compass>120.72796630859375</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13086879" lon="138.91911489">
+				<ele>75.3739013671875</ele>
+				<time>2020-01-12T07:56:23Z</time>
+				<extensions>
+					<speed>1.2400000095367432</speed>
+					<compass>105.94073486328125</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+			<trkpt lat="35.13092173" lon="138.91921779">
+				<ele>79.161865234375</ele>
+				<time>2020-01-12T07:56:33Z</time>
+				<extensions>
+					<speed>1.090000033378601</speed>
+					<compass>114.10272216796875</compass>
+					<compass_accuracy>1.0</compass_accuracy>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
