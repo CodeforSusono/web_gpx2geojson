@@ -36,7 +36,7 @@ web version of gpx2geojson (https://github.com/CodeforSusono/umap_geojson.git)
     　（省略）
     (venv3105) $
     ```
-1. Test view.py behavior
+1. Test view.py
     ```
     $ UPLOAD_DIR ./data python view.py
     * Serving Flask app 'view'
@@ -56,3 +56,11 @@ web version of gpx2geojson (https://github.com/CodeforSusono/umap_geojson.git)
   ![アップロードするgpxファイルを指定](static/input_gpxfile.png)
 1. Geojson file is downloaded
   ![処理結果のgeojsonファイルがダウンロードされる](static/downloaded_resultfile.png) 
+1. Run gunicorn
+    ```
+    $ UPLOAD_DIR=./data gunicorn view:app
+    [2023-03-05 13:11:49 +0900] [2541] [INFO] Starting gunicorn 20.1.0
+    [2023-03-05 13:11:49 +0900] [2541] [INFO] Listening at: http://127.0.0.1:8000 (2541)
+    [2023-03-05 13:11:49 +0900] [2541] [INFO] Using worker: sync
+    [2023-03-05 13:11:49 +0900] [2542] [INFO] Booting worker with pid: 2542
+    ```
